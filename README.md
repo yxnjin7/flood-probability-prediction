@@ -189,15 +189,7 @@ flood-probability-prediction/
 ├── notebooks/
 │   └── flood_probability_prediction.ipynb
 ├── data/
-│   └── train.csv
-├── outputs/
-│   └── final_predictions.csv
+│   └── train.csv(1)
 ├── requirements.txt
 └── .gitignore
 ```
-
-## 10. 주의사항
-
-학습 및 포트폴리오 목적의 프로젝트
-
-데이터 파일 용량이 큰 경우 원본 데이터 대신 샘플 데이터 또는 데이터 출처만 제공
